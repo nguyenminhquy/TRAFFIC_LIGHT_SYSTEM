@@ -78,7 +78,7 @@ FSM giúp hệ thống hoạt động theo chu kỳ tự động, đảm bảo a
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi hoặc vấn đề nào trong quá trình sử dụng hệ thống, vui lòng liên hệ với chúng tôi qua email: support@trafficlightsystem.com.
+Nếu có bất kỳ câu hỏi hoặc vấn đề nào trong quá trình sử dụng hệ thống, vui lòng liên hệ với chúng tôi qua email: quy.nguyen050104@hcmut.edu.vn
 
 ---
 
